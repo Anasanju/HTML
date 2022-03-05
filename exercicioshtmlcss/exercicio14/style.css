@@ -1,0 +1,11 @@
+@charsetUTF-8";
+
+style>
+        body {background-color: lightblue;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 20px;
+        }
+        h1 {color: darkblue; background-color: aquamarine;}
+        h2 {color:darkmagenta; background-color: azure;}
+    
+    </style>
